@@ -1,0 +1,9 @@
+[submodule "fahr_2_cels"]
+	path = fahr_2_cels
+	url = git@github.com:1kakarot/fahr_2_cels.git
+[submodule "nth_fib"]
+	path = nth_fib
+	url = git@github.com:1kakarot/nth_fib.git
+[submodule "lyrics"]
+	path = lyrics
+	url = git@github.com:1kakarot/lyrics.git
